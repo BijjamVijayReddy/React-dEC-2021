@@ -1,0 +1,28 @@
+let employee=[
+    {"id":1,"name":"Felic","email":"fgrundon0@dion.ne.jp","gender":"Male","countery":"Ukraine"},
+    {"id":2,"name":"Laurie","email":"lyeardley1@howstuffworks.com","gender":"Female","countery":"Mozambique"},
+    {"id":3,"name":"Jana","email":"jsanderson2@ted.com","gender":"Genderfluid","countery":"Brazil"},
+    {"id":4,"name":"Gayle","email":"ghanks3@blinklist.com","gender":"Agender","countery":"China"},
+    {"id":5,"name":"Meridel","email":"mryce4@eventbrite.com","gender":"Male","countery":"Sweden"},
+    {"id":6,"name":"Paulita","email":"psinnett5@reference.com","gender":"Agender","countery":"France"},
+    {"id":7,"name":"Simmonds","email":"seads6@cam.ac.uk","gender":"Genderqueer","countery":"Montenegro"},
+    {"id":8,"name":"Field","email":"fsenechault7@globo.com","gender":"Non-binary","countery":"France"},
+    {"id":9,"name":"Catharine","email":"ctockell8@cam.ac.uk","gender":"Bigender","countery":"China"},
+    {"id":10,"name":"Neila","email":"nduckels9@yahoo.com","gender":"Genderfluid","countery":"Thailand"},
+    {"id":11,"name":"Starr","email":"scatlowa@over-blog.com","gender":"Bigender","countery":"Slovenia"},
+    {"id":12,"name":"Albina","email":"asideyb@canalblog.com","gender":"Genderqueer","countery":"China"},
+    {"id":13,"name":"Kylynn","email":"kgonneauc@gov.uk","gender":"Bigender","countery":"Barbados"},
+    {"id":14,"name":"Rozanne","email":"rlestranged@vistaprint.com","gender":"Agender","countery":"Poland"},
+    {"id":15,"name":"Bartolomeo","email":"brainsburye@psu.edu","gender":"Agender","countery":"Indonesia"},
+    {"id":16,"name":"Kenton","email":"kmcgroryf@jalbum.net","gender":"Bigender","countery":"Cyprus"},
+    {"id":17,"name":"Cornell","email":"cbenedettig@lycos.com","gender":"Bigender","countery":"Netherlands"},
+    {"id":18,"name":"Janeen","email":"jcoulthardh@hp.com","gender":"Male","countery":"Syria"},
+    {"id":19,"name":"Brantley","email":"bjurischi@yellowpages.com","gender":"Female","countery":"China"},
+    {"id":20,"name":"Chariot","email":"cbeardj@odnoklassniki.ru","gender":"Bigender","countery":"Brazil"},
+    {"id":21,"name":"Wally","email":"wjaquemark@yahoo.co.jp","gender":"Bigender","countery":"United States"},
+    {"id":22,"name":"Fionnula","email":"flongeal@purevolume.com","gender":"Genderfluid","countery":"China"},
+    {"id":23,"name":"Gus","email":"gbernardtm@vkontakte.ru","gender":"Agender","countery":"China"},
+    {"id":24,"name":"Thea","email":"tgillisen@hugedomains.com","gender":"Genderfluid","countery":"Canada"},
+    {"id":25,"name":"Ced","email":"cmaccaullo@house.gov","gender":"Non-binary","countery":"Finland"}]
+    
+ export default employee;
